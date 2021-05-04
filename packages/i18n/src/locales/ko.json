@@ -217,11 +217,21 @@
     "program-settings": "프로그램 설정",
     "seek-iteration": "화살표 키를 눌렀을 때 탐색할 시간 (초)",
     "shuffle-queue": "음악 셔플",
+<<<<<<< HEAD
+    "shuffle-when-going-back": "이전 트랙에서 셔플",
+    "shuffle-when-going-back-description": "셔플이 활성화되어 있고, 이전 트랙 버튼을 클릭할 때 임의 트랙 재생",
+    "sleeptimer": "Sleeptimer",
+    "sleeptimer-description": "Number of minutes until music will stop playing",
+    "sleeptimerswitch": "Sleeptimer switch",
+    "social": "소셜",
+    "track-duration": "남은 시간을 디스플레이에 표시",
+=======
     "shuffle-when-going-back": "이전 음악 재생 시 셔플",
     "shuffle-when-going-back-description": "셔플 활성화 시, 이전 재생 버튼 누르면 임의로 음악 재생",
     "social": "소셜 네트워크",
     "streaming": "Streaming",
     "track-duration": "화면에 남은 재생 시간 표시",
+>>>>>>> 7a62c024cb994bc296d87bfa271000998d8389fb
     "user": "유저:",
     "youtube": "Youtube",
     "yt-api-key": "Youtube API 키"

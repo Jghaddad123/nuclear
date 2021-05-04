@@ -223,7 +223,14 @@
     "seek-iteration": "Numero di secondi richiesti per mandare avanti/indietro quando si premono le frecce",
     "shuffle-queue": "Mescola i brani",
     "shuffle-when-going-back": "Mescola sul brano precedente",
+<<<<<<< HEAD
+    "shuffle-when-going-back-description": "Riproduci un brano casuale quando la funzione mescola e' abilitata e il pulsante brano precedente viene clickato",
+    "sleeptimer": "Sleeptimer",
+    "sleeptimer-description": "Number of minutes until music will stop playing",
+    "sleeptimerswitch": "Sleeptimer switch",
+=======
     "shuffle-when-going-back-description": "Riproduci un brano casuale quando la funzione mescola è abilitata e il pulsante brano precedente viene cliccato",
+>>>>>>> 7a62c024cb994bc296d87bfa271000998d8389fb
     "social": "Social",
     "streaming": "Streaming",
     "track-duration": "Mostra la durata del brano sulla SeekBar",
